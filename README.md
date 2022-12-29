@@ -34,12 +34,12 @@ alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box
 
 <br/>
 For Server,Please update the appsetting.json at the C# Project with your JWT Secret key
-<img src="https://github.com/ongyishen/chsarpsignalr/blob/main/img/appsettingserver.png?raw=true" />
+<img src="https://github.com/ongyishen/csharpsignalrjwt/blob/main/img/appsettingserver.png?raw=true" />
 <br/>
 <br/>
 <br/>
 For Client,Please update the appsetting.json at the C# Project with your ChatHub URL & Toke URL base on your environment
-<img src="https://github.com/ongyishen/chsarpsignalr/blob/main/img/appsettingclient.png?raw=true" />
+<img src="https://github.com/ongyishen/csharpsignalrjwt/blob/main/img/appsettingclient.png?raw=true" />
 <br/>
 <br/>
 <br/>
